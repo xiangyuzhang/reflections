@@ -1,0 +1,9 @@
+Head means the current commit
+
+If we checkout into a history, we can also make some changes and commmit as well.
+
+But as soon as we checkout to other branch, the commit will disappeare. So the thing we can choose to retain a commit is to create a branch to it.
+
+To do this, we need cmmd:
+
+git checkout -b branchname 

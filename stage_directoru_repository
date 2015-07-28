@@ -1,0 +1,6 @@
+working directory: is just a real folder that can be seen and mantipulated
+
+stage: after init in working directory, every changed in working directory should be “git add” before commit. And ‘git commit” will definitely upload all the thing in stage all at once
+in addition, stage also copy the most recent commit
+
+repository: all the history commited changed will be shored here 

@@ -1,0 +1,7 @@
+Only merge changes!!!!
+
+CAREfull!!! When you are in a branch like branch 1, when you decide to merge branch 2 and 3, but actually you will merge all the 123!!!
+
+this is means, based on original parent(means. two children branched shares the same parents), if something is deleted in any of the children branches, it is still deleted after merging. If some is added, it will still be added in after merging
+
+And in the merged master, all the history in each branches will still be storred and sorted in time sequence.

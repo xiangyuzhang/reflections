@@ -1,0 +1,7 @@
+git diff:will check the diference between the file in working directory(files are added before in werking directory) and the most recent time the file is added
+
+NoteL it checkes around add (only added files)
+
+git diff --staged: will checked the difference around commit( or difference between repository and stage area)
+
+

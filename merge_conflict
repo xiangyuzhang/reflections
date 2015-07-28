@@ -1,0 +1,3 @@
+什么时候会发生merge conflict？： 系统提示merge conflict的时候，是在两个branch的同样的位置，在这次commit之前都发生了改变
+
+解决方法：就是将两个不同的branch综合考虑 
